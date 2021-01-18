@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Numbrs demo</string>
+    <string name="name">Name</string>
+    <string name="required_field">Required field</string>
+    <string name="value">Value</string>
+    <string name="date_label">Date</string>
+    <string name="date">%s</string>
+    <string name="income">income</string>
+    <string name="outcome">outcome</string>
+    <string name="save">Save</string>
+    <string name="new_item">New item</string>
+    <string name="item_added_successfully">Item added successfully</string>
+    <string name="error">Error</string>
+    <string name="update">Update</string>
+    <string name="edit_item">Edit item</string>
+    <string name="delay">Delay</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
