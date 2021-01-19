@@ -7,4 +7,5 @@ sealed class EditItemState {
     object AddSuccess: EditItemState()
 
     object Idle : EditItemState()
+
 }

@@ -16,8 +16,8 @@ class ItemsRepository @Inject constructor(
     // off the main thread.
     @Suppress("RedundantSuspendModifier")
     @WorkerThread
-    suspend fun insert(item: Item) {
-        itemsDao.insert(item)
+    suspend fun insert(item: Item): Long {
+        return itemsDao.insert(item)
     }
 
     @Suppress("RedundantSuspendModifier")
